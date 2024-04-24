@@ -1,21 +1,21 @@
 {
-  "name": "hashmap-odin-project",
-  "version": "1.0.0",
-  "description": "",
-  "private":true,
-  "type": "module",
-  "scripts": {
-    "test": "vitest"
-  },
-  "keywords": [],
-  "author": "Eduarte",
-  "license": "ISC",
-  "devDependencies": {
-    "@eslint/js": "^9",
-    "eslint": "^9",
-    "eslint-config-prettier": "^9",
-    "eslint-plugin-jsdoc": "^48",
-    "prettier": "^3",
-    "vitest": "^1"
-  }
+    "name": "hashmap-odin-project",
+    "version": "1.0.0",
+    "description": "",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "test": "vitest"
+    },
+    "keywords": [],
+    "author": "Eduarte",
+    "license": "ISC",
+    "devDependencies": {
+        "@eslint/js": "^9",
+        "eslint": "^9",
+        "eslint-config-prettier": "^9",
+        "eslint-plugin-jsdoc": "^48",
+        "prettier": "^3",
+        "vitest": "^1"
+    }
 }
